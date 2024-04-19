@@ -1,4 +1,4 @@
-# Project Title: Leveraging Informatics for Promoting Healthy Lifestyle Choices
+# Leveraging Informatics for Promoting Healthy Lifestyle Choices
 
 ## Research Question
 Our primary research question is: How can digital informatics tools be utilized to enhance lifestyle choices among young adults and working professionals, thereby reducing the risk of chronic diseases linked to lifestyle?
